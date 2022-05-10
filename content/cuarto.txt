@@ -1,0 +1,40 @@
+Combinado 1/4/2022 11:4:50
+Hello, this is first text file.
+
+Hello, this is second text file.
+===================
+Combinado 1/4/2022 11:5:34
+Hello, this is first text file.
+
+Hello, this is second text file.
+===================
+Combinado 1/4/2022 11:5:35
+Hello, this is first text file.
+
+Hello, this is second text file.
+===================
+Combinado 1/4/2022 11:5:38
+Hello, this is first text file.
+
+Hello, this is second text file.
+===================
+Combinado 1/4/2022 11:5:38
+Hello, this is first text file.
+
+Hello, this is second text file.
+===================
+Combinado 1/4/2022 11:5:54
+Hello, this is first text file.
+
+Hello, this is second text file.
+===================
+Combinado 1/4/2022 11:5:54
+Hello, this is first text file.
+
+Hello, this is second text file.
+===================
+Combinado 1/4/2022 12:55:59
+Hello, this is first text file.
+
+Hello, this is second text file.
+===================
